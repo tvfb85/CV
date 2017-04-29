@@ -1,9 +1,12 @@
 ## Vicky Roberts
 
-I'm a junior full-stack web developer, recently graduated from Maker's Academy in London. Passionate about working in the creative industries, I have ten years' experience previously working for television broadcasters and magazine publishers, prior to learning how to code. I love languages, new challenges, have a good eye for detail and a good head for problem-solving.
+I'm a junior full-stack web developer, recently graduated from Maker's Academy in London. 
+
+Passionate about working in the creative industries, I have ten years' experience working for television broadcasters and magazine publishers, prior to learning how to code. 
+
+I love languages, new challenges, have a good eye for detail and a good head for problem-solving.
 
 ## Projects
-
 
 | Project  | Description  | Technologies  |
 |---|---|---|
@@ -47,12 +50,13 @@ My most recent role as a Digital Product Coordinator at Time Inc UK introduced m
 
 #### Makers Academy (Feb 2017 to May 2017)
 
-As a recent graduate of this highly selective coding bootcamp in London, I am highly-trained in problem-solving, pair-programming and independent learning. As well as learning various programming languages, frameworks and design principles, I was able to realise my passion for coding with like-minded individuals - a wonderful life experience.
+- Coding bootcamp in London specialising in front and back-end development
+- Specialisms: Test-driven development, pair-programming and independent learning
+- In addition to learning various programming languages, frameworks and design principles, I was able to realise my passion for coding with like-minded individuals.
 
 #### Sussex University (Oct 2004 - Jun 2007)
 
-- English Language BA
-- 2:1
+- English Language BA (2:1)
 - Specialisms: Pyscholinguistics, Cognitive Linguistics, Sociolinguistics
 
 
@@ -66,7 +70,7 @@ As a recent graduate of this highly selective coding bootcamp in London, I am hi
 
 - Product-managed new platform features, such as the integration of e-commerce solutions, liaising internally with affiliate teams and externally with third parties
 
-- SKILLS: Product Management, A/B Testing, AGILE methodologies, WordPress, Content Management Systems, SEO, Audience Development, Google Analytics, Data Dashboards
+- **SKILLS:** Product Management, A/B Testing, AGILE methodologies, WordPress, Content Management Systems, SEO, Audience Development, Google Analytics, Data Dashboards
 
 
 **Exsus Travel** (Feb 2015 to May 2015)    
@@ -75,33 +79,33 @@ As a recent graduate of this highly selective coding bootcamp in London, I am hi
 
 - Increase brand awareness through social media engagement and online promotion using Twitter, Facebook, Instagram and Google+
 
-- Produce visually-engaging newsletters for brand's database of subscribers, plus additional marketing materials such as travel itineraries and info packs
+- Produce visually-engaging newsletters for brand's database of subscribers and travel itineraries for clients
 
-- SKILLS: Copywriting, Photoshop, CMS, SEO, Google Keywords, Social Media, Marketing, Blogging, MailChimp, Sub-editing
+- **SKILLS:** Copywriting, Photoshop, CMS, SEO, Google Keywords, Social Media, Marketing, Blogging, MailChimp, Sub-editing
 
 
 **Bolivian Express** (Oct 2014 to Jan 2015)    
 *Photojournalism Intern*  
-- Internship with an English-language magazine publication based in Bolivia studying journalism, Spanish and Photography
+- Internship with an English-language magazine publication based in Bolivia, studying journalism, Spanish and Photography
 
 - Collaborated with editors, photographers and designers to produce articles and photo-essays, conduct field research, assist with photo shoots, coordinate interviews, and translate quotes
 
-- SKILLS: Copywriting, Photoshop, Lightroom, InDesign, Research, Sub-editing, Photo-editing
+- **SKILLS:** Copywriting, Photoshop, Lightroom, InDesign, Research, Sub-editing, Photo-editing
 
 
 **Channel 4 Television Corporation** (Aug 2007 to Dec 2013)   
 *Senior Airtime Executive*  
 - Monitor ad revenue and delivery of commercial airtime across the Channel 4 portfolio (C4, E4, Film4, More4, UKTV and BoxTV)
 
-- Ensure parameters of share deals are met for the industry's top media agencies, including Group M, Starcom, Opera, Aegis and P&G
-
 - Identify opportunities to generate commercial revenue; through creative ventures, optimisation of commercial airtime, and sale of premium inventory
+
+- Ensure parameters of share deals are met for the industry's top media agencies, including Group M, Starcom, Opera, Aegis and P&G
 
 - Share industry news, current targets, market trends, upcoming programming, and campaign analysis across departments
 
 - Liaise with Sales, Scheduling and Breaks & Ratings to solve problems arising from last-minute alterations to the programme schedule
 
-- SKILLS: Campaign Management, Negotiation, Audience Data Analysis, Inventory Analysis, Reporting, Excel, Business Objects, Problem-solving, Training, Management
+- **SKILLS:** Campaign Management, Negotiation, Audience Data Analysis, Inventory Analysis, Reporting, Excel, Business Objects, Problem-solving, Training, Management
 
 ## Other Achievements
 
