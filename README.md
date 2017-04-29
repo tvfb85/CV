@@ -50,8 +50,7 @@ My most recent role as a Digital Product Coordinator at Time Inc UK introduced m
 
 #### Makers Academy (Feb 2017 to May 2017)
 
-- Coding bootcamp in London specialising in front and back-end development
-- Specialisms: Test-driven development, pair-programming and independent learning
+- Coding bootcamp in London specialising in test-driven development, pair-programming and independent learning
 - In addition to learning various programming languages, frameworks and design principles, I was able to realise my passion for coding with like-minded individuals.
 
 #### Sussex University (Oct 2004 - Jun 2007)
