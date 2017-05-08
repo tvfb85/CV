@@ -2,7 +2,7 @@
 
 I'm a junior full-stack web developer, recently graduated from Maker's Academy in London. 
 
-Passionate about working in the creative industries, I have ten years' experience working for television broadcasters and magazine publishers, prior to learning how to code. 
+Passionate about working in the creative industries, I have ten years' experience working in TV Broadcasting and Digital Publishing, prior to learning how to code. 
 
 I love languages, new challenges, have a good eye for detail and a good head for problem-solving.
 
@@ -10,6 +10,7 @@ I love languages, new challenges, have a good eye for detail and a good head for
 
 | Project  | Description  | Technologies  |
 |---|---|---|
+| [BitTorrent Client](https://github.com/FloraHarvey/bittorrent-client) | A BitTorrent Client app | Javascript ES6, Node.js |
 | [Canvas: Drawing App](https://github.com/ledleds/canvas) | An online drawing tool | Javascript, HTML5, CSS |
 | [News Feed App](https://github.com/tvfb85/newsapp-js) | Travel news app incorporating the Guardian's API | Javascript, HTML, CSS, Bootstrap |
 | [Bowling Game](https://github.com/tvfb85/bowling-challenge)  | Interactive front-end game with back-end scoring logic |  Javascript, jQuery, HTML, CSS |
